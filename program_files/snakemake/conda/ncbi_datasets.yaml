@@ -1,0 +1,8 @@
+name: ncbi_datasets
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ca-certificates=2022.12.7=ha878542_0
+  - ncbi-datasets-cli=14.24.0=ha770c72_0
+prefix: /home/oliver/miniconda3/envs/ncbi_datasets

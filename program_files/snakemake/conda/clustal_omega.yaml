@@ -1,0 +1,7 @@
+name: clustal_omega
+channels:
+  - bioconda
+  - defaults
+dependencies:
+  - clustalo=1.2.3=0
+prefix: /home/oliver/miniconda3/envs/clustal_omega

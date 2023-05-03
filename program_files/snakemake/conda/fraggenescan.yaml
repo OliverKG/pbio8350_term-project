@@ -1,0 +1,15 @@
+name: fraggenescan
+channels:
+  - bioconda
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - _openmp_mutex=5.1=1_gnu
+  - fraggenescan=1.31=hec16e2b_4
+  - gdbm=1.18=hd4cb3f1_4
+  - libgcc-ng=11.2.0=h1234567_1
+  - libgomp=11.2.0=h1234567_1
+  - ncurses=6.4=h6a678d5_0
+  - perl=5.34.0=h5eee18b_2
+  - readline=8.2=h5eee18b_0
+prefix: /home/oliver/miniconda3/envs/fraggenescan

@@ -1,0 +1,33 @@
+name: LTR_finder
+channels:
+  - bioconda
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - _openmp_mutex=5.1=1_gnu
+  - expat=2.4.9=h6a678d5_0
+  - fontconfig=2.14.1=h4c34cd2_2
+  - freetype=2.12.1=h4a9f257_0
+  - giflib=5.2.1=h5eee18b_3
+  - icu=58.2=he6710b0_3
+  - jpeg=9e=h5eee18b_1
+  - lerc=3.0=h295c915_0
+  - libdeflate=1.17=h5eee18b_0
+  - libgcc-ng=11.2.0=h1234567_1
+  - libgd=2.3.3=h6a678d5_2
+  - libgomp=11.2.0=h1234567_1
+  - libpng=1.6.39=h5eee18b_0
+  - libstdcxx-ng=11.2.0=h1234567_1
+  - libtiff=4.5.0=h6a678d5_2
+  - libuuid=1.41.5=h5eee18b_0
+  - libwebp=1.2.4=h11a3e52_1
+  - libwebp-base=1.2.4=h5eee18b_1
+  - libxml2=2.10.3=hcbfbd50_0
+  - ltr_finder=1.07=h9f5acd7_2
+  - lz4-c=1.9.4=h6a678d5_0
+  - perl=5.26.2=h14c3975_0
+  - perl-gd=2.68=pl526he941832_0
+  - xz=5.2.10=h5eee18b_1
+  - zlib=1.2.13=h5eee18b_0
+  - zstd=1.5.5=hc292b87_0
+prefix: /home/oliver/miniconda3/envs/LTR_finder
