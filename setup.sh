@@ -1,0 +1,12 @@
+mkdir alignment_smk
+mkdir assembly_files
+mkdir blast
+mkdir diamond_output
+mkdir fraggenescan_output
+mkdir logs_reports
+mkdir ltr_finder
+mkdir ncbi_temp
+mkdir phylogeny
+mkdir reference_tes
+mkdir te_seqs
+mkdir te_windows
